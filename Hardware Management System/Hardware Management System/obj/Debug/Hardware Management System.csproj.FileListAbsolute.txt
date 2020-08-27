@@ -1,0 +1,22 @@
+C:\Users\jcesp\source\repos\Hardware Management System\Hardware Management System\bin\Debug\Hardware Management System.exe.config
+C:\Users\jcesp\source\repos\Hardware Management System\Hardware Management System\bin\Debug\Hardware Management System.exe
+C:\Users\jcesp\source\repos\Hardware Management System\Hardware Management System\bin\Debug\Hardware Management System.pdb
+C:\Users\jcesp\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.Properties.Resources.resources
+C:\Users\jcesp\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware Management System.csproj.GenerateResource.cache
+C:\Users\jcesp\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware Management System.csproj.CoreCompileInputs.cache
+C:\Users\jcesp\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware Management System.exe
+C:\Users\jcesp\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware Management System.pdb
+C:\Users\jcesp\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.adminUI.resources
+C:\Users\jcesp\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.userlogin.resources
+C:\Users\jcesp\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.adminlogin.resources
+C:\Users\jcesp\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.userUI.resources
+C:\Users\jcesp\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.Home.resources
+C:\Users\jcesp\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.Salesreport.resources
+C:\Users\jcesp\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.Inventory.resources
+C:\Users\jcesp\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.ManageAccounts.resources
+C:\Users\jcesp\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.Suppliers.resources
+C:\Users\jcesp\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.DevelopersInfo.resources
+C:\Users\jcesp\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.UserAccounts.resources
+C:\Users\jcesp\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.AdminAccounts.resources
+C:\Users\jcesp\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware Management System.csprojAssemblyReference.cache
+C:\Users\jcesp\source\repos\Hardware Management System\Hardware Management System\obj\Debug\Hardware_Management_System.AddUserAccount.resources
